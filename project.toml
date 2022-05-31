@@ -1,2 +1,2 @@
 [[build.buildpacks]]
-uri = "https://github.com/cloudfoundry/staticfile-buildpack/releases/download/v1.5.30/staticfile-buildpack-cflinuxfs3-v1.5.30.zip"
+uri = "https://github.com/cloudfoundry/staticfile-buildpack"
