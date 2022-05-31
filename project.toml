@@ -1,3 +1,2 @@
 [[build.buildpacks]]
-uri = "urn:cnb:registry:paketo-community/staticfile
-"
+uri = "urn:cnb:registry:paketo-community/staticfile"
