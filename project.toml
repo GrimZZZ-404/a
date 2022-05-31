@@ -1,2 +1,2 @@
 [[build.buildpacks]]
-uri = "https://github.com/cloudfoundry/staticfile-buildpack"
+uri = "https://github.com/cloudfoundry/staticfile-buildpack/archive/refs/tags/v1.5.30.tar.gz"
